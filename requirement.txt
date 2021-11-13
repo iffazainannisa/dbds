@@ -1,0 +1,48 @@
+Diponegoro Big Data School
+
+https://templatemo.com/live/templatemo_493_snapshot
+
+Link home sebelah kiri atas diganti jadi DBDS
+
+Bagian Learn More di Home diberi link REGISTER HERE ... https://docs.google.com/forms/d/e/1FAIpQLSeKeM_6V6shuUxpnNOfW07P-HOqF8vQOfeWmgRK3q2M8TkNxg/viewform
+
+Bagian home tulisan LETS TAKE A SNAPSHOT diganti jadi DIPONEGORO BIG DATA SCHOOL (DBDS)
+
+Bagian narasi di bawahnya diganti:
+Diponegoro Big Data School is a two-days webinar series on 25th to 26th November, 2021.  This event is organized by Department of Informatics, Universitas Diponegoro
+
+Ke bawah bagian menu ABOUT diganti jadi OVERVIEW
+
+Isinya :
+Department of Informatics, Faculty of Science and Mathematics, Universitas Diponegoro, Semarang, Indonesia held a webinar entitled of Diponegoro Big Data School (DBDS). DBDS is a platform for disclosing research findings, experiences and critical views regarding the advancement of science and technology, especially Cyber Physical System (CPS). This webinar is the first of the series and expected to be held annually. Topics include CPS in multiple contexts: Big Data, Data Visualization, Machine Learning, Audio Recognition, Computer Vision, and IoT. This event will be held online on November 25th - 26th, 2021, as part of ICICoS 2021. Participants can take part in this event by filling out this registration form.
+
+SNAPSHOT TEAM diubah jadi SPEAKERS
+
+Baik ibu saya buat desainnya terlebih dahulu, ini ibu untuk drive nya https://drive.google.com/drive/folders/1GaLgBkOCr_d3wd3ZNQx7Qx76kmCBJoUG?usp=sharing
+
+Bagian Gallery diganti jadi Post-Event
+
+Halaman kosong saja ... isinya to be announced
+
+Sama di bawahnya ada gambar-gambar juga tapi di buat 6 ya.... bagian tulisannya 1st Session terus bidangnya sesuai dengan yang ada di poster bagian tombol learn more biarkan saja.... nanti buat link ke materi
+
+terus yang send message kirim ke if@live.undip.ac.id
+
+link2 sosmed dihapus
+
+Link Session I : https://drive.google.com/drive/folders/1MVZKtflQOZpGIw2BP-zvtjXo99t4su6Y?usp=sharing
+
+session 2:
+https://drive.google.com/folderview?id=13H9kMapPe_Dg7ny2gA5btoUPvGn2_F8T
+
+session 3:
+https://drive.google.com/folderview?id=1EjbuLThd-IMV3J4HScNJZ8cwlRUbdKTc
+
+session 4:
+https://drive.google.com/folderview?id=1mOlFH2LeNSDmJnvk6WlLyim9sYLx4ty2
+
+session 5:
+https://drive.google.com/folderview?id=1k4nSO7HBjI38s0ZYo9q7wVSnMxRlF3KY
+
+session 6:
+https://drive.google.com/folderview?id=1WBkOSw7pb6ooqEGBzs0A7WVJuAkMJ2Jr
