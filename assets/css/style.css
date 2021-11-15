@@ -138,14 +138,14 @@ a:hover, a:active, a:focus {
 
 #overview,
 #event,
-#contact {
+#contact, #participants {
   padding-top: 120px;
   padding-bottom: 120px;
   position: relative;
 }
 
 #event,
-#contact, footer {
+#contact, #participants {
   text-align: center;
 }
 
@@ -505,8 +505,30 @@ a:hover, a:active, a:focus {
   font-size: 11px;
 }
 
+#event .thead-dark th{
+  background-color: #292b2c;
+  color: #fff;
+  text-align: center;
+}
 
+#event td{
+  text-align: center;
+  vertical-align: middle;
+}
 
+#event tr td:last-child {
+  text-align: left;
+  vertical-align: middle;
+}
+
+#event .highlight{ 
+  background-color: #6c757d; 
+  color: #fff;
+}
+
+#participants {
+  background-color: #f0f0f0;
+}
 /*---------------------------------------
     Contact section              
 -----------------------------------------*/
@@ -647,7 +669,7 @@ a:hover, a:active, a:focus {
 
   #overview,
   #event,
-  #contact {
+  #contact, #participants {
     padding-top: 80px;
     padding-bottom: 80px;
   }
